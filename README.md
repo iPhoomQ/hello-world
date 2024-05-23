@@ -1,3 +1,3 @@
 # hello-world
 
-# my name is Phakphoom not Neo 
+# my name is iPhoom not Neo 
